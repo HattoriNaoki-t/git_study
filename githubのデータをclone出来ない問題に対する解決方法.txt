@@ -1,0 +1,12 @@
+﻿問題の詳細として
+クローンや機能の使用が出来ない、
+解決方法として
+
+github desktopのブランチを左クリックしてgitshellを押し以下を入力
+
+学校
+git config --global http.proxy proxy.tc.kawai-juku.ac.jp:3128
+
+
+自宅
+git config --global --unset http.proxy proxy.tc.kawai-juku.ac.jp:3128
