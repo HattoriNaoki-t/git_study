@@ -1,4 +1,4 @@
-# git_study
+# git_tutorial
 
 制作物の説明やレギュレーションを行う
 
